@@ -16,6 +16,10 @@ body{
     line-height: 1.4;
     color: var(--dark);
 }
+
+.banner-title{
+    color: orange;
+}
 img{
     width: 100%;
     display: block;
